@@ -14,13 +14,13 @@ Submit the result like this: shctf{decrypted_text_here}
 
 **Alien_Wordle.PNG**
 
-![wordle](https://i.imgur.com/ggPTYIv.png)
+![wordle](./Alien_Wordle.PNG)
 
 ### Solution
 
 I've never seen these symbols before so first thing to do is find it, using google lens the app, or directly drag the image to google search bar and i found it quick:
 
-![decipher](https://i.imgur.com/n8Qk9sT.jpeg)
+![decipher](./alien_cypher.jpg)
 
 replacing them we get `star..s.` with an extra misplaced `d` with some searching and guessing i found the closest wordle to be ***sratdust*** the challenge decription says that the flag is encrypted with an old cypher chatgpt gave me a list of old ciphers that take keys, i tryied:
 

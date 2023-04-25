@@ -1,4 +1,4 @@
-# [Bynary Encoding](https://spaceheroes.ctfd.io/challenges#Bynary%20Encoding-12) (super ez)
+# (super ez)
 
 ### Description
 
@@ -6,13 +6,15 @@ Starfleet has received a transmission from [Bynaus](https://memory-alpha.fandom.
 
 ### Files
 
-Transmission.txt
+[Transmission.txt](./transmission.txt)
 
 ### Solution
 
 when i opened the file it looked empty, until i hit `ctrl+a` then i can see that there are a lot of white spaces, some are single white space and a tap ``\t``.
 
 so using find and replace in ``vscode`` i replaced all `space` with  ``1``and ``\t`` with ``0``.
+
+[transmission fixed.txt](transmission fixed.txt)
 
 ```python
 01110011
@@ -25,8 +27,10 @@ so using find and replace in ``vscode`` i replaced all `space` with  ``1``and ``
 
 now i just wrote a small python script to read these binary nums convert them to decemal and print the coresponding char
 
+[solve.py](./solve.py)
+
 ```python
-with open('transmission.txt','r') as f:
+with open('transmission fixed.txt','r') as f:
     text = f.readlines()
 for i in text:
     c = int(i, 2)  # converts binary to decimal

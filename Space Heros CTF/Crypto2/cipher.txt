@@ -1,0 +1,13 @@
+flag ciphered = trt3_db_mz1gq_fekdf_x1ty
+
+key = stard.s.   used letters are s t a r d
+
+not allowed letters = e m a n w b
+letters left = c d f g h i j k l o p q u v x y z
+
+key = stardust ?
+
+cipher was Vigenere Cipher
+
+flag = shctf{byt3_my_sh1ny_metal_f1ag}
+https://imgur.com/a/kie5u3f

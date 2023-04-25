@@ -12,7 +12,7 @@ p=remote("spaceheroes-cryptographic-space-rover.chals.io", 443, ssl=True, sni="s
 p.interactive()
 ```
 
-**nasa_crypto.py**
+[nasa_crypto.py](./nasa_crypto.py)
 
 ```python
 import psutil
@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 Alright first thing to do is understand the code, then try to run it and see what it does.
 
-##### * understand the code
+##### nderstand the code
 
 navigating to `main()` creates a random uuid, calls `logo()`, it just prints a fancy ascii art welcome page but, it contains a key value that we will use later on, which is the uuid, after that it asks the user to input a string, it runs a loop over the letters you input, for each letter it checks wether it matches the corresponding letter in the flag, if it does it calls `print_top()` with `guess` parameter as `True` else as `False` and in one edge case `None` (same as `False`), now what does `print_top()` do?
 
@@ -241,6 +241,8 @@ MiB Swap :      0.00 total      0.00 free       0.00 used
 Ok Awesome now we can brute force every number, letter (lowercase and uppercase) and every symbol for each character in the flag... no?
 
 that sounds boarding and very time consuming, lets write a big brain script to do it for us:
+
+[solve.py](./solve.py)
 
 ```python
 from pwn import *
