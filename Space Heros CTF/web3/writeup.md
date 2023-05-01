@@ -12,11 +12,11 @@ None
 
 ### Solution
 
-Theres a cookie called `show_hidden` and its set to `false`, if set to `true`.
+Theres a cookie called `show_hidden` and its set to `false`, so i thought... just set to `true`.
 
 ![cookie.png](cookie.png)
 
-the list of folders will have an extra option called flag.txt, but selecting it wont work cuz its a file, i hade to send the request manually and set the folder to `.` and file to `flag.txt`.
+the list of folders will have an extra option called `flag.txt`, but selecting it wont work cuz its a file, i hade to send the request manually and set the folder to `.`and file to `flag.txt`.
 
 [solve.py](solve.py)
 
