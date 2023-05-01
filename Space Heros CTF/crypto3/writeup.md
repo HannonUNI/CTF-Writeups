@@ -2,9 +2,7 @@
 
 ### Description
 
-Good news everyone! We have been tasked with deciphering a secret message from a less than friendly group of aliens! We know that they use the results of the popular " *Alien Wordle* " game as a key for their daily encryption method, that they love old human ciphers, and we got a copy of their game in progress. The bad news is, none of us can read alienese. Can you figure out the message?
-
-Submit the result like this: shctf{decrypted_text_here}
+I dont have it sry, read source code insted
 
 ### Files
 
