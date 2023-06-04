@@ -26,9 +26,7 @@ Let's explore the world of the 🐝 Movie today!
 ```
 
 ---
-            🐝
 #### sovle
-                   🐝
 going over first letters of each line 🐝
 🐝                       🐝                   🐝
 `k n o w n e  c t f a l l` 
