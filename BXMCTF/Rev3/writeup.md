@@ -16,9 +16,14 @@ The flag format for this problem is different from the rest, it is: `ctf{[!-z]{6
 
 #### files
 
-[rev3.zip](https://ctfmgci.jonathanw.dev/dl/bxmctf2023/rev3.zip)
+[Document 1.txt
+](./Document 1.txt)
 
-##### Hints
+[Document 1.txt](Document 1.txt)
+
+[Rev3.txt](Rev3.py)
+
+**Hints**
 
 What do you think the program is trying to accomplish? It is related to mathematics.
 

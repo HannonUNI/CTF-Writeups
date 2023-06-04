@@ -5,12 +5,13 @@
 Author: cg
 
 The flag to this challenge is all lowercase, with no underscores.-
----
+------------------------------------------------------------------
+
 #### Files
 
 [Crypto3.py](./crypto3.py)
 
-```
+```python
 
 from Crypto.Util.number import *
 import random
@@ -37,7 +38,9 @@ print(f'e = {e}')
 print(f'n = {n}')
 print(f'c = {c}')
 ```
+
 ---
+
 #### Solution
 
 First Step was finding `p` and `q` in order to find `d` i checked [factordp.com](http://factordb.com/index.php?query=4629059450272139917534568159172903078573041591191268130667) (it'll be factorized there by now) but at the time it wasn't so i head to [alpertron.com](https://www.alpertron.com.ar/ECM.HTM) and used there factoring method to find `p` and `q` now we can calculate `phi` and `d`
