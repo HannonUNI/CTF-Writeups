@@ -147,7 +147,7 @@ While researching a foreign planet, you and your team discover a cave with some 
 
 ### Solution
 
-When i downloaded **Acheron** i opened it with **Binary Ninja** **Cloud** and found the code up there, i copied it into vscode and started my [find and replace](solve.txt).
+When i downloaded **Acheron** i opened it with **Binary Ninja** **Cloud** and found the code up there, i copied it into vscode and started my find and replace.
 
 * 0x4e -> N
 * 0x45 -> E
