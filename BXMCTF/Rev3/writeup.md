@@ -1,4 +1,4 @@
-# MCV5U
+# MCV5U (not ez)
 
 Author: Ryzon
 
@@ -164,7 +164,7 @@ print(flag)
 what does it do in a nutshell?
 
 it does complex mathematical operations on two arrays of 300,000 numbers, then checks if output matches the verification key, if it does, it prints the flag.
-you can simply run it but it would take forever to finish (300,00^2) operations😳😳, so we need to optimize it, or figure out a way to get the flag manually without running it, or both in a way.
+you can simply run it but it would take forever to finish (300,00^2) operations😳😳, so we need to optimize it, or figure out a way to get the flag manually without running it, or both.
 
 so what it actually does is the `fft convolution algorithm`, which is a way to multiply two polynomials in *`O(nlogn)`* time, but it does it in the naive *`O(n^2)`* time.
 
@@ -184,7 +184,6 @@ VERIFY_KEY = "46e1b8845b40bc9d977b8932580ae44c"
 
 
 def getSequence(A, B, n, m):
-
     n = len(A)
     m = len(B)
 
@@ -208,7 +207,7 @@ def getSequence(A, B, n, m):
 
     # Return the convolution sequence
     return result[:n + m - 1]
-
+    Thx ChatGPT 😊😄
 
 A = [0] * SIZE
 B = [0] * SIZE
@@ -252,5 +251,4 @@ key = str(hashlib.sha256(val.encode()).digest())
 flag = "ctf{" + "".join(list([x for x in key if x.isalpha() or x.isnumeric()])) + "}"
 
 print(flag)
-# ctf{bx8b2xdcx80x8bxafx90x16x0fxc9Cx87x99Gx8cx1dxb9x8exb4xfaLx93xcfx9dxcfyx13xb5Lxee}
 ```

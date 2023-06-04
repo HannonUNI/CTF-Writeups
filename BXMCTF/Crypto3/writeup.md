@@ -4,8 +4,7 @@
 
 Author: cg
 
-The flag to this challenge is all lowercase, with no underscores.-
-------------------------------------------------------------------
+The flag to this challenge is all lowercase, with no underscores.
 
 #### Files
 
@@ -71,9 +70,7 @@ but rather shuffled based on a `perm` list so i had to find the write permutatio
 1- find all possible permutations for numbers from 0 to 9, and rearrange `c` based on them (doable and feasible)
 2- shuffle `c` randomly just like `perm` was and test my luck (stupid and guessy)
 
-i know that iam dump and lucky so i wend with way two 😄
-
-[Full code](solve.py)
+i know that iam dumb and lucky so i went with way two 😄
 
 ```python
 while True:
@@ -84,6 +81,9 @@ while True:
     if b'ctf{' in flag:
         print(f'flag = {flag}')
 ```
+
+[Full stupid code](solve.py) 😊
+[Full smart code](solve2.py) 😑 *booo*
 
 after 2~3 minutes i got the flag:
 
