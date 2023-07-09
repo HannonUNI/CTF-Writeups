@@ -1,0 +1,81 @@
+Content-Type: multipart/mixed; boundary="===============7160460087186955680=="
+MIME-Version: 1.0
+From: toremo9380@fitwl.com
+To: RealEmail@Realestmailserver
+Subject: Your Monthly Newsletter
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MSMail-Priority: High
+X-Priority: 1
+MIME-Version: 1.0
+Content-type: multipart/mixed; boundary="===============7160460087186955680=="
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Status: No, score=-1.0 required=5.0 tests=ALL_TRUSTED
+X-Spam-Score: -1.0
+Reply-To: toremo9380@fitwl.com
+Return-Path: toremo9380@fitwl.com
+Received-SPF: pass (sender IP is 20.104.111.137)
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of RealEmail@Realestmailserver designates 20.104.111.137 as permitted sender) smtp.mailfrom=toremo9380@fitwl.com dkim=pass header.i=@yourserver.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=RealEmail@Realestmailserver; s=selector; h=From:To:Subject:MIME-Version:Content-Type; bh=1234abcd; b=abcd1234
+DMARC-Results: i=1; mx.google.com; spf=pass (google.com: domain of RealEmail@Realestmailserver designates 20.104.111.137 as permitted sender) smtp.mailfrom=toremo9380@fitwl.com; dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=Realestmailserver.com
+Date: Tue, 01 Jan 2023 12:00:00 +0000
+Received: from yourserver.com (yourserver.com [20.104.111.137]) by Realestmailserver.com (Realestmailserver.com) with SMTP id 1234abcd; Tue, 01 Jan 2023 12:00:00 +0000
+Reverse-DNS: Realestmailserver.com
+Reply-To: RealEmail@Realestmailserver
+
+--===============7160460087186955680==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+CjxodG1sPgo8aGVhZD4KPHN0eWxlPgpib2R5IHsKICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fu
+cy1zZXJpZjsKICAgIGJhY2tncm91bmQtY29sb3I6ICNmNGY0ZjQ7CiAgICBtYXJnaW46IDA7CiAg
+ICBwYWRkaW5nOiAwOwp9Ci5jb250YWluZXIgewogICAgd2lkdGg6IDgwJTsKICAgIG1hcmdpbjog
+YXV0bzsKICAgIG92ZXJmbG93OiBoaWRkZW47Cn0KLmhlYWRlciB7CiAgICBwYWRkaW5nOiAzMHB4
+OwogICAgYmFja2dyb3VuZDogIzUwYTZjMjsKICAgIGNvbG9yOiB3aGl0ZTsKICAgIHRleHQtYWxp
+Z246IGNlbnRlcjsKfQouaGVhZGVyIGgxIHsKICAgIG1hcmdpbjogMDsKfQoubWFpbiB7CiAgICBw
+YWRkaW5nOiAyMHB4OwogICAgYmFja2dyb3VuZDogd2hpdGU7CiAgICBjb2xvcjogIzU1NTU1NTsK
+fQouZm9vdGVyIHsKICAgIHBhZGRpbmc6IDIwcHg7CiAgICBiYWNrZ3JvdW5kOiAjNTBhNmMyOwog
+ICAgY29sb3I6IHdoaXRlOwogICAgdGV4dC1hbGlnbjogY2VudGVyOwp9Cjwvc3R5bGU+CjwvaGVh
+ZD4KPGJvZHk+CjxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgPGRpdiBjbGFzcz0iaGVhZGVyIj4K
+ICAgIDxoMT5Zb3VyIE1vbnRobHkgTmV3c2xldHRlcjwvaDE+CiAgPC9kaXY+CiAgPGRpdiBjbGFz
+cz0ibWFpbiI+CiAgICA8aDI+SGVsbG8sPC9oMj4KICAgIDxwPldlbGNvbWUgdG8gb3VyIG1vbnRo
+bHkgbmV3c2xldHRlciEgV2UndmUgZ290IGEgdG9uIG9mIGV4Y2l0aW5nIG5ld3MgdG8gc2hhcmUg
+d2l0aCB5b3UgdGhpcyBtb250aC4gQ2hlY2sgb3V0IG91ciBsYXRlc3QgYXJ0aWNsZXMgYW5kIHVw
+ZGF0ZXM6PC9wPgogICAgPHVsPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9lbi5yb3lhbmV3
+cy50di9uZXdzLzQyNjg1LzIwMjMtMDYtMjYiPkFydGljbGUgMTwvYT48L2xpPgogICAgICA8bGk+
+PGEgaHJlZj0iaHR0cHM6Ly9lbi5yb3lhbmV3cy50di9uZXdzLzQyNjk4LzIwMjMtMDYtMjYiPkFy
+dGljbGUgMjwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9lbi5yb3lhbmV3cy50
+di9uZXdzLzQyNjk5LzIwMjMtMDYtMjYiPkFydGljbGUgMzwvYT48L2xpPgogICAgICA8bGk+PGEg
+aHJlZj0iaHR0cHM6Ly9lbi5yb3lhbmV3cy50di9uZXdzLzQyNzAwLzIwMjMtMDYtMjYiPkFydGlj
+bGUgNDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9lbi5yb3lhbmV3cy50di9u
+ZXdzLzQyNjgxLzIwMjMtMDYtMjUiPkFydGljbGUgNTwvYT48L2xpPgogICAgICA8bGk+PGEgaHJl
+Zj0iaHR0cHM6Ly9lbi5yb3lhbmV3cy50di9uZXdzLzQyNjg3LzIwMjMtMDYtMjYiPkFydGljbGUg
+NjwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9lbi5yb3lhbmV3cy50di9uZXdz
+LzQyNjkzLzIwMjMtMDYtMjYiPkFydGljbGUgNzwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0i
+aHR0cHM6Ly9lbi5yb3lhbmV3cy50di9uZXdzLzQyNjc5LzIwMjMtMDYtMjUiPkFydGljbGUgODwv
+YT48L2xpPgogICAgPC91bD4KICAgIDxwPkFsc28sIGNoZWNrIG91dCB0aGVzZSBncmVhdCBwcm9k
+dWN0cyBmcm9tIG91ciBzcG9uc29yczo8L3A+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMu
+dW5zcGxhc2guY29tL3Bob3RvLTE0NTExODc1ODA0NTktNDM0OTAyNzljMGZhP2l4bGliPXJiLTQu
+MC4zJml4aWQ9TTN3eE1qQTNmREI4TUh4d2FHOTBieTF3WVdkbGZIeDhmR1Z1ZkRCOGZIeDhmQSUz
+RCUzRCZhdXRvPWZvcm1hdCZmaXQ9Y3JvcCZ3PTExNzImcT04MCIgd2lkdGg9IjUwMCIgaGVpZ2h0
+PSIyMDAiIC8+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3Rv
+LTE1MjY0NzA2MDgyNjgtZjY3NGNlOTBlYmQ0P2l4bGliPXJiLTQuMC4zJml4aWQ9TTN3eE1qQTNm
+REI4TUh4d2FHOTBieTF3WVdkbGZIeDhmR1Z1ZkRCOGZIeDhmQSUzRCUzRCZhdXRvPWZvcm1hdCZm
+aXQ9Y3JvcCZ3PTEwNzQmcT04MCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIyMDAiIC8+CiAgICA8aW1n
+IHNyYz0iaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1MzEyNjY3NTI0MjYtYWFk
+NDcyYjdiYmY0P2l4bGliPXJiLTQuMC4zJml4aWQ9TTN3eE1qQTNmREI4TUh4d2FHOTBieTF3WVdk
+bGZIeDhmR1Z1ZkRCOGZIeDhmQSUzRCUzRCZhdXRvPWZvcm1hdCZmaXQ9Y3JvcCZ3PTExNzAmcT04
+MCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIyMDAiIC8+CiAgICA8cD5Eb24ndCBmb3JnZXQgdG8gcGFy
+dGljaXBhdGUgaW4gb3VyIHVwY29taW5nIGV2ZW50czo8L3A+CiAgICA8dWw+CiAgICAgIDxsaT48
+YSBocmVmPSJodHRwczovL3Vuc3BsYXNoLmNvbS9waG90b3MvZ0VLTXN0S2ZaNnciPkV2ZW50IDE8
+L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdW5zcGxhc2guY29tL3Bob3Rvcy8x
+VGpPUlQyZExPdyI+RXZlbnQgMjwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly91
+bnNwbGFzaC5jb20vcGhvdG9zL3JCQUF6M1JlVXVvIj5FdmVudCAzPC9hPjwvbGk+CiAgICAgIDxp
+bWcgc3JjPSJodHRwOi8vd2hpc2thcHBzLmNvbS90ci5naWYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEi
+IC8+CiAgICA8L3VsPgogICAgPHA+U3RheSB0dW5lZCBmb3IgbW9yZSB1cGRhdGVzITwvcD4KICAg
+IDxwPkJlc3QgUmVnYXJkcyw8L3A+CiAgICA8cD5Zb3VyU2VydmVyIFRlYW08L3A+CiAgPC9kaXY+
+CiAgPGRpdiBjbGFzcz0iZm9vdGVyIj4KICAgIDxwPsKpIDIwMjMgUmVhbGVzdG1haWxzZXJ2ZXIu
+IEFsbCByaWdodHMgcmVzZXJ2ZWQuPC9wPgogIDwvZGl2Pgo8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+
+Cg==
+
+--===============7160460087186955680==--
